@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:5-3-2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
@@ -36,9 +36,29 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sriram (24901134) </title>
+</head>
+<body>
+<h1><u>Revenue generating companies</u><h1>
+
+<ul>
+<li>Amazon</li>
+<li>Apple</li>
+<li>Microsoft</li>
+<li>Google</li>
+</ul>
+
+Done by sriram (24901134)
+
+</body>
+</html>
 
 
 ## OUTPUT:
+![Uploading Screenshot 2025-03-05 110527.png…]()
 
 
 ## RESULT:
